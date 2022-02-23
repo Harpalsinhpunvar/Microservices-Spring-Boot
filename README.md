@@ -12,7 +12,7 @@ http://localhost:8100/currency-conversion/from/AUR/to/INR/quantity/10
 http://localhost:8100/currency-conversion-feign/from/AUR/to/INR/quantity/10
 
 # EUREKA-NAMING SERVER
-http://localhost:8761/eureka
+http://localhost:8761
 
 # API-GATEWAY
 http://localhost:8765/CURRENCY-EXCHANGE/currency-exchange/from/USD/to/INR
